@@ -21,6 +21,8 @@ I'm working on building a website for you! I have this domain parked in case you
 
 ![Image](https://cdn-images.imagevenue.com/73/82/1e/ME129VUH_o.jpg)
 
+![Image](https://cdn-images.imagevenue.com/43/2e/37/ME129VUS_o.jpg)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
