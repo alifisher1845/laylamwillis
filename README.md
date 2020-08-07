@@ -8,7 +8,7 @@ I'm working on building a website for you! I have this domain parked in case you
 
 [Switch Zoo](https://www.switchzoo.com)
 
-[Giggle Poetry](https://www.gigglepoetry.com)
+[Poetry4kids](https://www.poetry4kids.com/)
 
 [ABCya!](https://www.abcya.com)
 
