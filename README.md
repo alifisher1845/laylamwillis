@@ -15,9 +15,9 @@ I'm working on building a website for you! I have this domain parked in case you
 [Amazing Space](amazingspace.org)
 
 
-###Pictures
+### Pictures
 
-![Image](https://photos.app.goo.gl/XvgWNwG8AnLhPZMk7)
+![Image](https://cdn-thumbs.imagevenue.com/a8/d0/27/ME129VU9_t.jpg)
 
 
 ### Markdown
