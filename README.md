@@ -4,15 +4,15 @@ I'm working on building a website for you! I have this domain parked in case you
 
 ### Links
 
-[ABC Mouse](www.abcmouse.com)
+[ABC Mouse](https://www.abcmouse.com)
 
-[Switch Zoo](www.switchzoo.com)
+[Switch Zoo](https://www.switchzoo.com)
 
-[Giggle Poetry](www.gigglepoetry.com)
+[Giggle Poetry](https://www.gigglepoetry.com)
 
-[ABCya!](www.abcya.com)
+[ABCya!](https://www.abcya.com)
 
-[Amazing Space](amazingspace.org)
+[Amazing Space](https://amazingspace.org)
 
 
 ### Pictures
