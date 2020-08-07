@@ -17,8 +17,9 @@ I'm working on building a website for you! I have this domain parked in case you
 
 ### Pictures
 
-![Image](https://cdn-thumbs.imagevenue.com/01/f8/29/ME129VUF_t.jpg)
+![Image](https://cdn-images.imagevenue.com/75/dc/78/ME129VUK_o.jpg)
 
+![Image](https://cdn-images.imagevenue.com/73/82/1e/ME129VUH_o.jpg)
 
 ### Markdown
 
