@@ -1,4 +1,4 @@
-##Hi Hootie!
+# Hi Hootie!
 
 I'm working on building a website for you! I have this domain parked in case you ever want it, so I figured I would go ahead and put something fun on here for you in the mean time!
 
